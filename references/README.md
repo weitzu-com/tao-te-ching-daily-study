@@ -1,1 +1,7 @@
-Skill reference files go here.
+# References
+
+This folder stores optional supporting notes for:
+- translation principles
+- interpretation style
+- chapter-specific notes
+- future expansion

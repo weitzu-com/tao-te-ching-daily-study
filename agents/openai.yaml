@@ -1,2 +1,3 @@
 interface:
   display_name: "Tao Te Ching Daily Study"
+  short_description: "Study one chapter of the Tao Te Ching each day with chinese text, faithful english translation, concise interpretation, and practical reflection."

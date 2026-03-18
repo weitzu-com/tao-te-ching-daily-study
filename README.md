@@ -25,3 +25,7 @@ A ChatGPT Skill for studying one chapter of the Tao Te Ching each day.
 - edit agents/openai.yaml to update display metadata
 - add notes under references/ for stable interpretation rules
 - package as skill.zip when ready to publish
+
+When prior progress is not visible, say briefly:
+"Based on the visible conversation, I will restart from chapter 1."
+Then continue immediately.

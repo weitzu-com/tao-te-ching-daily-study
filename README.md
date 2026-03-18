@@ -19,3 +19,9 @@ A ChatGPT Skill for studying one chapter of the Tao Te Ching each day.
 - agents/openai.yaml
 - references/
 - assets/
+
+## Maintenance
+- edit SKILL.md to update behavior
+- edit agents/openai.yaml to update display metadata
+- add notes under references/ for stable interpretation rules
+- package as skill.zip when ready to publish
